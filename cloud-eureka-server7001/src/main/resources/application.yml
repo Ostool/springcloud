@@ -1,0 +1,16 @@
+server:
+  port: 7001
+eureka:
+  instance:
+    hostname: eureka7001.com
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      #集群环境,即eureka的服务端采用互相注册，互相守望（7001的服务器服务注册地址写的是7002的，7002则写的是7001）
+      #若采用的是单击环境，则用的是谁的服务器端，对应注册地址就写谁
+      defaultZone: http://eureka7002.com:7002/eureka/
+
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 2000

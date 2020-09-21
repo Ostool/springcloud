@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6695b72-10e2-4f74-8c45-1b69858cabcc" name="Default Changelist" comment="" />
+    <list default="true" id="a6695b72-10e2-4f74-8c45-1b69858cabcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-config-center3344/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,6 +46,7 @@
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$maven_home" />
   </component>
   <component name="ProjectId" id="1hFwrpJ2KAofCCCl6KNwgImArub" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -123,6 +130,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="wky.springcloud.OrderMainConsul81" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZkMain82" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order82" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="wky.springcloud.OrderZkMain82" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -223,7 +237,7 @@
       <workItem from="1599703522740" duration="4515000" />
       <workItem from="1599709201937" duration="11159000" />
       <workItem from="1599788801740" duration="21045000" />
-      <workItem from="1600045173210" duration="10993000" />
+      <workItem from="1600045173210" duration="11079000" />
     </task>
     <servers />
   </component>
@@ -295,10 +309,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599805235073" />
-    <state x="115" y="0" key="new project wizard" timestamp="1600233625053">
+    <state x="115" y="0" key="new project wizard" timestamp="1600657067060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600233625053" />
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600657067060" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600001106419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

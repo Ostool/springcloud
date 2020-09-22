@@ -43,7 +43,9 @@
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$maven_home" />
   </component>
   <component name="ProjectId" id="1hFwrpJ2KAofCCCl6KNwgImArub" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -192,7 +194,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.21251932" />
+          <option name="contentProportion" value="0.25425038" />
           <treeState>
             <expand>
               <path>
